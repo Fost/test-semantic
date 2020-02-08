@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Fost/test-semantic"
+    "url": "https://github.com/Fost/test-semantic"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.0",
