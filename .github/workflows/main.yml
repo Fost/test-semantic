@@ -24,11 +24,13 @@ jobs:
           node-version: 12
 
       - name: Install dependencies
-          run: yarn install
+        run: yarn install
 
       - name: build
-          run: echo SKIPPING
+        run: echo SKIPPING
 
       - name: release
-          run:
-            yarn run ci:release
+        run:
+          yarn run ci:release
+
+
