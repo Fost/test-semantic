@@ -1,6 +1,7 @@
 {
     'branches': [
-        {'name': 'v1.2.x', prerelease: 'bn' },
+        'master',
+        {'name': 'release/v1.2.x', prerelease: 'bn' },
         {'name': 'develop', 'prerelease': 'develop' }
     ],
     plugins: [
