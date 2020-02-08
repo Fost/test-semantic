@@ -1,6 +1,5 @@
 {
     'branches': [
-        {'name': 'master'},
         {'name': 'v1.2.x', 'range': 'v1.2.x'},
         {'name': 'develop', 'prerelease': 'develop' }
     ],
