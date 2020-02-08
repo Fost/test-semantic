@@ -7,7 +7,7 @@ on:
       - 'pre/rc'
       - 'beta'
       - 'next'
-      - 'build'
+      - 'release/v1.2.*'
 
 jobs:
   release:
